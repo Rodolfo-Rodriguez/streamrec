@@ -6,7 +6,7 @@ import dropbox
 
 dbx_path = '/Podcasts/'
 
-dbx_auth_token = 'MGXqOqiEXJQAAAAAAAAYP8aTsGb9q6h_I47gZ0B-3GZAFziVCwIoh1g1O19iQmwm'
+dbx_auth_token = ''
 
 list_argv = sys.argv
 num_argv_in = len(list_argv)
